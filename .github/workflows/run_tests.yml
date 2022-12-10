@@ -1,4 +1,5 @@
-name: Unit tests
+name: Unit tests master
+
 
 on:
   push:
